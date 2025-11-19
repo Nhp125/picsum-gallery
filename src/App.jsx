@@ -1,5 +1,5 @@
 import React from "react";
-import { Routes, Route, Link, Navigate } from "react-router-dom";
+import { HashRouter as Routes, Route, Link, Navigate } from "react-router-dom";
 import PhotoList from "./pages/PhotoList";
 import PhotoDetail from "./pages/PhotoDetail";
 
